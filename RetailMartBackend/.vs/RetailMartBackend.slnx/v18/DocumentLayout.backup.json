@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F50FBAD-5B81-A3FC-61B7-832ADB4E616B}|RetailMartBackend\\RetailMartBackend.csproj|e:\\capstone_2 project\\phase2\\retailmartbackend\\retailmartbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F50FBAD-5B81-A3FC-61B7-832ADB4E616B}|RetailMartBackend\\RetailMartBackend.csproj|solutionrelative:retailmartbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F50FBAD-5B81-A3FC-61B7-832ADB4E616B}|RetailMartBackend\\RetailMartBackend.csproj|e:\\capstone_2 project\\phase2\\retailmartbackend\\retailmartbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F50FBAD-5B81-A3FC-61B7-832ADB4E616B}|RetailMartBackend\\RetailMartBackend.csproj|solutionrelative:retailmartbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F50FBAD-5B81-A3FC-61B7-832ADB4E616B}|RetailMartBackend\\RetailMartBackend.csproj|e:\\capstone_2 project\\phase2\\retailmartbackend\\retailmartbackend\\retailmartbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F50FBAD-5B81-A3FC-61B7-832ADB4E616B}|RetailMartBackend\\RetailMartBackend.csproj|solutionrelative:retailmartbackend\\retailmartbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\RetailMartBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "RetailMartBackend\\appsettings.json",
+              "ToolTip": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\RetailMartBackend\\appsettings.json",
+              "RelativeToolTip": "RetailMartBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T09:44:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\RetailMartBackend\\Program.cs",
+              "RelativeDocumentMoniker": "RetailMartBackend\\Program.cs",
+              "ToolTip": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\RetailMartBackend\\Program.cs*",
+              "RelativeToolTip": "RetailMartBackend\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:42:36.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RetailMartBackend.csproj",
+              "DocumentMoniker": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\RetailMartBackend\\RetailMartBackend.csproj",
+              "RelativeDocumentMoniker": "RetailMartBackend\\RetailMartBackend.csproj",
+              "ToolTip": "E:\\Capstone_2 project\\Phase2\\RetailMartBackend\\RetailMartBackend\\RetailMartBackend.csproj",
+              "RelativeToolTip": "RetailMartBackend\\RetailMartBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T09:25:07.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

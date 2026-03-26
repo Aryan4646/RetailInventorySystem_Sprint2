@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "none",
+    "rootDir": "./ts",
+    "outDir": "./js",
+    "strict": true,
+    "sourceMap": true
+  }
+}
